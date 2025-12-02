@@ -1,5 +1,4 @@
 # Knife
-Knife
 BLACK HANDLE KNIFE – 3D MODEL PACKAGE  
 Created by Reza Damghani  
 Format: .blend + .obj  
